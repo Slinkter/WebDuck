@@ -1,0 +1,21 @@
+.bg_01 {
+    background-image: url('../img/duck423.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+
+    color: white;
+}
+
+.bg_02 {
+    background-image: url('../img/duck424.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+}
+
+.bg_03 {
+    background-image: url('../img/duck425.jpg');
+    background-repeat: no-repeat;
+    position: relative;
+    color: white;
+}
