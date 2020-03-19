@@ -1,8 +1,7 @@
 .bg_01 {
     background-image: url('../img/duck423.jpg');
     background-repeat: no-repeat;
-    position: relative;
-
+    position: static;
     color: white;
 }
 
