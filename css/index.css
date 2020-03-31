@@ -5,15 +5,28 @@ h4,
 h5 {
     font-family: 'Prata', serif;
 }
- 
-p {
-    color: #000000;
+
+
+
+.pedido-color {
+    color: #1290ce;
 }
 
-h2{
-    color: #000000;
+.estandar-color {
+    color: #12ce78;
 }
 
+
+
+
+
+@media (min-width: 370px) {
+
+
+    .img_resize_nav {
+        height: 15px;
+    }
+}
 
 
 @media (min-width: 476px) {
@@ -31,7 +44,7 @@ h2{
     }
 
     .img_resize_nav {
-        height: 18px;
+        height: 15px;
     }
 }
 
@@ -51,7 +64,7 @@ h2{
     }
 
     .img_resize_nav {
-        height: 20px;
+        height: 18px;
     }
 }
 
