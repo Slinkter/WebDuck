@@ -20,7 +20,7 @@ html {
     width: 340px;
     height: 360px;
     margin: 30px auto 30px auto;
-    padding: 40px;
+    padding:25px;
     display: grid;
     border-radius: 25px;
     background: #40e0d0;
@@ -44,6 +44,11 @@ html {
     color: #12ce78;
 }
 
+
+
+.img_resize_nav {
+    height: 15px;
+}
 
 
 @media (min-width: 370px) {
