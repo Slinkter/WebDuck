@@ -10,8 +10,6 @@ html {
     scroll-behavior: smooth;
 }
 
-
-
 .nav-celeste {
     background: #ffd868;
 }
@@ -44,16 +42,20 @@ html {
     color: #12ce78;
 }
 
-
-
 .img_resize_nav {
     height: 15px;
+}
+.text-desc-info{
+    text-align: center;
+    color: white;
+    font-size: 1.25rem;
+    font-weight: 320;
 }
 
 
 @media (min-width: 370px) {
     .text-principal {
-        font-size: 3.7rem;
+        font-size: 3.9rem;
         font-weight: 300;
         line-height: 1.2;
     }
